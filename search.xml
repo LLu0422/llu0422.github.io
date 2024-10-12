@@ -8,36 +8,13 @@
       <link href="/2024/10/02/%E8%BF%9B%E5%BA%A6%E8%AE%B0%E5%BD%95/"/>
       <url>/2024/10/02/%E8%BF%9B%E5%BA%A6%E8%AE%B0%E5%BD%95/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th align="center">日期📅</th><th>任务</th><th>心情</th></tr></thead><tbody><tr><td align="center">10.02</td><td>1. smote提升效果了<br />2. 开题框架-GPT<br />3. 过采样和欠采样</td><td>💯</td></tr><tr><td align="center"></td><td></td><td></td></tr><tr><td align="center"></td><td></td><td></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th align="center">日期📅</th><th>任务&amp;笔记</th></tr></thead><tbody><tr><td align="center">10.02</td><td>1. smote提升效果了<br />2. 开题框架-GPT<br />3. 过采样和欠采样</td></tr><tr><td align="center">10.02-10.09</td><td>实验基本跑完了，初步</td></tr><tr><td align="center">10.12</td><td>后处理方法试一下其他的方法，目前预处理方法选择好了，模型内部还是采用学习方法，但是后处理方法最好换一个，但是效果不好的话就不换了。想想怎么写背景部分。</td></tr></tbody></table>]]></content>
       
       
       
         <tags>
             
             <tag> 杂记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>代办</title>
-      <link href="/2024/09/28/%E4%BB%A3%E5%8A%9E/"/>
-      <url>/2024/09/28/%E4%BB%A3%E5%8A%9E/</url>
-      
-        <content type="html"><![CDATA[<ol><li>对抗学习</li><li>小样本生成</li><li>公平性评估</li></ol><h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><ul><li>pycham无法关闭项目！！！！！</li><li>装intouch为什么花了一个h啊，很不理解</li></ul><table><thead><tr><th></th><th>问题</th><th>Done</th><th>Date</th></tr></thead><tbody><tr><td>1</td><td>pycham项目无法关闭</td><td>雄鹰般的女人选择直接卸载重装hhh，我无语了，重装也是一样，项目自动开启，无法关闭！！！按照网上的教程，索引我也做了，但是还是不行啊</td><td>10.1</td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 杂记 </tag>
-            
-            <tag> 资源 </tag>
-            
-            <tag> 学习笔记 </tag>
             
         </tags>
       
@@ -76,7 +53,7 @@
       <link href="/2024/09/22/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
       <url>/2024/09/22/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
       
-        <content type="html"><![CDATA[<h2 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h2><p>1. </p><h2 id="阅读论文"><a href="#阅读论文" class="headerlink" title="阅读论文"></a>阅读论文</h2><ol><li>Pull together: Option-weighting-enhanced mixture-of-experts knowledge tracing Author links open overlay panel（<a href="https://www.sciencedirect.com/science/article/pii/S0957417424002847#sec2%EF%BC%89">https://www.sciencedirect.com/science/article/pii/S0957417424002847#sec2）</a></li><li>Deep Learning vs. Bayesian Knowledge Tracing: Student Models for Interventions（<a href="https://jedm.educationaldatamining.org/index.php/JEDM/article/view/318%EF%BC%89">https://jedm.educationaldatamining.org/index.php/JEDM/article/view/318）</a></li><li></li></ol>]]></content>
+        <content type="html"><![CDATA[<h2 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h2><ol><li>联邦学习</li><li>对抗学习</li><li>BKT</li><li>DKT</li></ol>]]></content>
       
       
       
